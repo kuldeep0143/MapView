@@ -18,7 +18,7 @@ Enter latitude and longitude in the input fields.
 
 Click the "Simulate" button to watch the drone's path unfold on the map!
 
-👉 Project Link :- 
+👉 Project Link :- https://mapview21.netlify.app/
 
 ## Tech Stack:
 
