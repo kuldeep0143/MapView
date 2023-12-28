@@ -1,8 +1,29 @@
-# React + Vite
+## 🚁 Exciting Drone Simulation Project! 🌍
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Hey community! 👋 I'm share a cool project I've been working on – a real-time drone simulation using React, Google Maps API, and Tailwind CSS! 🌈✔
 
-Currently, two official plugins are available:
+### Features:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📍 Display a world map using Google Maps.
+
+🚁 Simulate the movement of a drone based on user-input latitude and longitude.
+
+📈 Visualize the entire path taken by the drone on the map.
+
+💻 Built with React, @react-google-maps/api, and Tailwind CSS.
+
+#### How it works🤔:
+
+Enter latitude and longitude in the input fields.
+
+Click the "Simulate" button to watch the drone's path unfold on the map!
+
+👉 Project Link :- 
+
+## Tech Stack:
+
+React: Frontend framework for building user interfaces.
+
+@react-google-maps/api: A React hook library for Google Maps.
+
+Tailwind CSS: A utility-first CSS framework for rapid UI development.
