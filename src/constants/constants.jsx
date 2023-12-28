@@ -1,2 +1,1 @@
-export const REACT_APP_GOOGLE_MAPS_KEY =
-  "AIzaSyDzQ08ROBDVZhbQxtQ-h3J5uMQipntG5i0";
+export const REACT_APP_GOOGLE_MAPS_KEY = "";   //Generate your API Key
